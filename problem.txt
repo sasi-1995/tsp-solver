@@ -1,0 +1,14 @@
+I
+I A 50
+I B 22
+I D 75
+A B 18
+A C 15
+A D 37
+A E 27
+B E 61
+C D 57
+C E 10
+C G 55
+E F 12
+F G 21
